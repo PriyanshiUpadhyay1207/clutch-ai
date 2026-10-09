@@ -1,0 +1,1 @@
+Task 1 completed: Built local_daemon/monitor.py with cross-platform fallback (pynvml for NVIDIA on Windows, psutil + mock GPU for macOS dev).

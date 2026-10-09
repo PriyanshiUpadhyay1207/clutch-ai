@@ -4,7 +4,7 @@
     {
       "id": 1,
       "description": "Write a Python script using psutil and pynvml to fetch CPU/GPU temps and RAM usage, returning a JSON object.",
-      "passes": false
+      "passes": true
     },
     {
       "id": 2,
